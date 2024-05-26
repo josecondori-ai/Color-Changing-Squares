@@ -50,6 +50,5 @@ Esperamos que disfrutes trabajando con este proyecto y que te inspire a crear m�
 - **styles.css**: Archivo CSS que contiene los estilos para la página y los cuadrados.
 - **script.js**: Archivo JavaScript que contiene la lógica para cambiar los colores de los cuadrados.
 
-## 📝 Código HTML
 
-```html
+
