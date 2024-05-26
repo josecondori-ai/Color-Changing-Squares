@@ -34,7 +34,7 @@ Para utilizar este proyecto localmente, sigue estos pasos:
 
 ## 🌐 Ejemplo en Vivo
 
-Puedes ver un ejemplo en vivo del proyecto aquí: [Color Changing Squares - Demo]([https://tu-usuario.github.io/color-changing-squares/](https://josecondori-ai.github.io/Color-Changing-Squares/))
+Puedes ver un ejemplo en vivo del proyecto aquí: [Color Changing Squares - Demo](https://josecondori-ai.github.io/Color-Changing-Squares/)
 
 ## ✨ Comentario Final
 
