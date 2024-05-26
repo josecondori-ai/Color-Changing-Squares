@@ -1,5 +1,10 @@
 # 🎨 Color Changing Squares
 
+
+
+https://github.com/josecondori-ai/Color-Changing-Squares/assets/62406594/5187a442-007d-47b5-8be7-95427bb5ec74
+
+
 ## 📖 Descripción del Proyecto
 
 **Color Changing Squares** es un proyecto interactivo y visualmente atractivo que muestra una cuadrícula de 500 cuadrados que cambian de color cuando el usuario pasa el cursor sobre ellos. Este proyecto utiliza **HTML**, **CSS** y **JavaScript** para crear una experiencia dinámica y entretenida.
@@ -16,7 +21,7 @@ Para utilizar este proyecto localmente, sigue estos pasos:
 
 1. **Clona este repositorio**:
     ```sh
-    git clone https://github.com/tu-usuario/color-changing-squares.git
+    git clone https://github.com/josecondori-ai/Color-Changing-Squares.git
     ```
 
 2. **Navega al directorio del proyecto**:
@@ -29,7 +34,7 @@ Para utilizar este proyecto localmente, sigue estos pasos:
 
 ## 🌐 Ejemplo en Vivo
 
-Puedes ver un ejemplo en vivo del proyecto aquí: [Color Changing Squares - Demo](https://tu-usuario.github.io/color-changing-squares/)
+Puedes ver un ejemplo en vivo del proyecto aquí: [Color Changing Squares - Demo]([https://tu-usuario.github.io/color-changing-squares/](https://josecondori-ai.github.io/Color-Changing-Squares/))
 
 ## ✨ Comentario Final
 
